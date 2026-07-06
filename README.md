@@ -81,19 +81,6 @@ FMCG-Sales-Dashboard/
 ├── Dashboard_Screenshot.png
 └── README.md
 ```
-
----
-
-## 📷 Dashboard Preview
-
-> *(Add the dashboard screenshot here.)*
-
-Example:
-
-```markdown
-![Dashboard Preview](Dashboard_Screenshot.png)
-```
-
 ---
 
 ## 🚀 Future Improvements
